@@ -1,0 +1,28 @@
+body {
+  background: #ebe3f5;
+}
+h1,
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 20px auto;
+  color: deeppink;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: darkviolet;
+  text-decoration: underline;
+}
+
+.croissant-image {
+  display: block;
+  max-width: 100%;
+  border-radius: 15px;
+  margin: 30px auto;
+}
